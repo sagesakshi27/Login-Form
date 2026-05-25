@@ -71,8 +71,10 @@ If you face an issue with the blur effect (`backdrop-filter`):
 
 ---
 
-## ❤️ Author
-**Developed by:** [**Sakshi Chavan**]  
-**GitHub:** [**sagesakshi27**](https://github.com/sagesakshi27)
+## 🧑‍💻 Author
+
+> **Developer:**  **Sakshi Chavan**
+
+> **Github:** **[sagesakshi27](https://github.com/sagesakshi27)**
 
 ---
